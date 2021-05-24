@@ -1,2 +1,2 @@
 # merchant
-Pol Service Management Tech Assignment
+Pol. - Service Management Tech Assignment
